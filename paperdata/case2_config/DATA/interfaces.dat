@@ -1,0 +1,116 @@
+# number of interfaces
+10
+#
+# for each interface below, we give the number of points and then x,z for each point
+#
+# interface number 1 (Deepest, stable basement)
+ 3
+ 0 -6000
+ 6000 -6100
+ 12000 -6000
+# interface number 2 (Broad, deep syncline/basin)
+ 5
+ 0 -5400
+ 3000 -5700
+ 6000 -5800
+ 9000 -5650
+ 12000 -5400
+# interface number 3 (Transition layer, starts building anticline)
+ 7
+ 0 -4800
+ 2000 -5000
+ 4000 -5100
+ 6000 -5050
+ 8000 -5000
+ 10000 -4900
+ 12000 -4800
+# interface number 4 (Pronounced central anticline/uplift)
+ 7
+ 0 -4200
+ 2000 -4400
+ 4000 -4100
+ 6000 -3900
+ 8000 -4150
+ 10000 -4350
+ 12000 -4200
+# interface number 5 (Complex shape, multiple smaller folds)
+ 9
+ 0 -3600
+ 1500 -3800
+ 3000 -3400
+ 4500 -3750
+ 6000 -3500
+ 7500 -3700
+ 9000 -3450
+ 10500 -3650
+ 12000 -3600
+# interface number 6 (Strongly deformed, non-parallel to layer 5)
+ 8
+ 0 -3000
+ 2000 -2700
+ 4000 -3200
+ 5500 -2800
+ 7000 -3150
+ 9000 -2850
+ 11000 -3050
+ 12000 -3000
+# interface number 7 (Intense short-wavelength folding)
+ 9
+ 0 -2400
+ 1500 -2200
+ 3000 -2500
+ 4500 -2300
+ 6000 -2600
+ 7500 -2400
+ 9000 -2550
+ 10500 -2350
+ 12000 -2400
+# interface number 8 (A major anticline, setting up for the surface hills)
+ 7
+ 0 -1800
+ 2000 -1600
+ 4000 -1300
+ 6000 -1400
+ 8000 -1200
+ 10000 -1500
+ 12000 -1800
+# interface number 9 (Follows the anticline but with a central depression, creating the valley)
+ 7
+ 0 -1000
+ 2000 -800
+ 4000 -900
+ 6000 -1100
+ 8000 -850
+ 10000 -950
+ 12000 -1000
+# interface number 10 (Highly dramatic surface topography with high peaks and a deep valley)
+ 9
+ 0 100
+ 1500 350
+ 3000 500
+ 4500 100
+ 6000 -50
+ 8000 450
+ 9000 350
+ 10500 150
+ 12000 120
+# for each layer, we give the number of spectral elements in the vertical direction
+#
+# layer number 1
+12
+# layer number 2
+12
+# layer number 3
+12
+# layer number 4
+12
+# layer number 5
+12
+# layer number 6
+12
+# layer number 7
+12
+# layer number 8
+16
+# layer number 9
+20

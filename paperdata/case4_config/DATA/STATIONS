@@ -1,0 +1,11 @@
+# Campi Flegrei stations
+# see: https://ismd.mi.ingv.it/ismd.php?tipo=stazioni
+CGAU     2I      40.8523674  14.1129980  0.0  0.0
+CSOC     2I      40.8416     14.2124     0.0  0.0
+VSVT     2I      40.8229     14.3692     0.0  0.0
+CFMN     IV      40.8329     14.0904     0.0  0.0
+CSTH     IV      40.8294     14.1493     0.0  0.0
+CMIS     IV      40.7781     14.089      0.0  0.0
+PTMR     IV      40.7614     14.0349     0.0  0.0
+IOCA     IV      40.7467     13.9014     0.0  0.0
+VPOB     IV      40.8527     14.3832     0.0  0.0

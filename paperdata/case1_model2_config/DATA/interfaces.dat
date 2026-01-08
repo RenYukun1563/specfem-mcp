@@ -1,0 +1,53 @@
+# number of interfaces
+6
+#
+# for each interface below, we give the number of points and then x,z for each point
+#
+# interface number 1
+ 2
+ 0 -14000
+ 50000 -14000
+# interface number 2
+ 6
+ 0 -8000
+ 15000 -8200
+ 22000 -4500
+ 28000 -3500
+ 35000 -6000
+ 50000 -7500
+# interface number 3
+ 6
+ 0 -6000
+ 15000 -6200
+ 22000 -3500
+ 28000 -2800
+ 35000 -4800
+ 50000 -5500
+# interface number 4
+ 5
+ 0 -3000
+ 15000 -3100
+ 25000 -2200
+ 35000 -2800
+ 50000 -2500
+# interface number 5
+ 3
+ 0 -1000
+ 25000 -1200
+ 50000 -1000
+# interface number 6
+ 2
+ 0 0
+ 50000 0
+# for each layer, we give the number of spectral elements in the vertical direction
+#
+# layer number 1
+10
+# layer number 2
+8
+# layer number 3
+6
+# layer number 4
+4
+# layer number 5
+4

@@ -1,0 +1,13 @@
+ PDEQ2025  1  1  1  1 0.0  0.0  0.0  0.0 0.0 1.0 test                                  
+event name:     testA
+time shift:      0.0
+half duration:   0.1025
+latitude:       40.8277
+longitude:      14.1380
+depth:           2.6000
+Mrr:      -5.030000e+24
+Mtt:      -4.250000e+23
+Mpp:       5.450000e+24
+Mrt:      -1.690000e+23
+Mrp:       4.590000e+23
+Mtp:      -5.490000e+23

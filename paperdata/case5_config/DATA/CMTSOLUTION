@@ -1,0 +1,13 @@
+PDE 2011  3 11  5 46 23.20  38.3000  142.3700  20.0 9.0 9.1 JAPAN Tohoku-Oki Earthquake
+event name:      Tohoku_Mw9_optimized
+time shift:      0.0
+half duration:   15.0
+latitude:        38.30
+longitude:       142.37
+depth:           20.0
+Mrr:         1.062e+29
+Mtt:        -6.94e+27
+Mpp:        -9.92e+28
+Mrt:         3.46e+28
+Mrp:         7.96e+28
+Mtp:         1.31e+28
