@@ -24,7 +24,7 @@ Paper: [arXiv:2512.14429](https://arxiv.org/abs/2512.14429)
 
 ## Status
 
-Code will be released after paper acceptance.
+Paper case data is currently available under `paperdata/`. Code will be released after paper acceptance.
 
 ## Contact
 
